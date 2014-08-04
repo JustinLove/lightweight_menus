@@ -1,0 +1,20 @@
+{
+  "author": "wondible",
+  "build": "69721",
+  "category": ["ui"],
+  "context": "client",
+  "date": "2014/08/03",
+  "description": "Remove expensive elements from the out-of-game UI to to improve reponsiveness.",
+  "display_name": "Lightweight Menus",
+  "forum": null,
+  "identifier": "com.wondible.pa.lightweight_menus",
+  "priority": 100,
+  "scenes": {
+    "global_mod_list": [
+      "coui://ui/mods/lightweight_menus/lightweight_menus.css"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "1.0.0"
+}
+
