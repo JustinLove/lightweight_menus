@@ -4,9 +4,9 @@
   "category": ["ui"],
   "context": "client",
   "date": "2014/08/03",
-  "description": "Remove expensive elements from the out-of-game UI to to improve reponsiveness.",
+  "description": "Remove expensive elements from the out-of-game UI to to improve responsiveness.",
   "display_name": "Lightweight Menus",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-lightweight-menus.62586/",
   "identifier": "com.wondible.pa.lightweight_menus",
   "priority": 100,
   "scenes": {
