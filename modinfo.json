@@ -1,9 +1,9 @@
 {
   "author": "wondible",
-  "build": "69721",
+  "build": "86765",
   "category": ["ui"],
   "context": "client",
-  "date": "2014/08/03",
+  "date": "2015/08/29",
   "description": "Remove expensive elements from the out-of-game UI to to improve responsiveness.",
   "display_name": "Lightweight Menus",
   "forum": "https://forums.uberent.com/threads/rel-lightweight-menus.62586/",
@@ -15,6 +15,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
 
